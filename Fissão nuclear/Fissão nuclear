@@ -1,0 +1,59 @@
+Fissão nuclear
+
+A fissão nuclear é uma reação nuclear na qual o núcleo de um átomo se divide em partes menores (núcleos mais leves). O processo de fissão geralmente produz neutrons e fotões livres (na forma de raios gama) e libera grande quantidade de energia. Na física nuclear, a fissão nuclear é uma reação nuclear ou um processo de decaimento radioativo. O caso do processo de decaimento é chamado de fissão espontânea e é um processo muito raro. Nesta seção, será discutida a fissão nuclear induzida por neutrões, o processo de maior importância prática na física do reator.
+
+História breve
+
+A fissão nuclear de elementos pesados ​​foi descoberta em 17 de dezembro de 1938 por Otto Hahn e seu assistente Fritz Strassmann. Eles tentaram criar elementos transurânicos bombardeando urânio com nêutrons. Ao invés dos elementos pesados ​​que eles esperavam, eles receberam vários produtos não identificados. Quando finalmente identificaram um dos produtos como Barium-141, eles eram circunspectivos para publicar a descoberta porque era tão inesperado.
+
+Quando eles finalmente publicaram os resultados em 1939, eles chamaram a atenção de Lise Meitner, uma física aderente austríaca que trabalhou com Hahn em suas experiências nucleares. Ela foi a primeira a perceber que o bário de Hahn e outros produtos mais leves dos experimentos de bombardeamento de neutrões eram provenientes da fissão de U-235. Meitner e Frisch realizaram experiências adicionais que mostraram que a fissão U-235 pode liberar grandes quantidades de energia tanto como radiação eletromagnética quanto como energia cinética dos fragmentos (aquecimento do material a granel onde a fissão ocorre). Eles perceberam que isso possibilitou uma reação em cadeia com um rendimento de energia sem precedentes.
+
+Fundamentos da fissão nuclear
+
+Existem núcleos que podem sofrer fissão por conta própria, mas apenas certos núcleos, como urânio-235, urânio-233 e plutônio-239, podem sustentar uma reação em cadeia de fissão. Isso ocorre porque esses núcleos liberam nêutrons quando se separam e esses nêutrons podem induzir fissão de outros núcleos. Os nêutrons gratuitos liberados por cada fissão desempenham um papel muito importante como um gatilho da reação.
+
+I M A G E M N U C L E A R F I S S I O N
+
+A fissão nuclear é uma reação nuclear na qual o núcleo de um átomo se divide em partes menores (núcleos mais leves). Essa reação nuclear é desencadeada pelo nêutron.
+
+Reação em cadeia
+
+Uma reação em cadeia nuclear ocorre quando uma única reação nuclear causa uma média de uma ou mais reações nucleares subsequentes, levando à possibilidade de uma série de auto-propagação dessas reações. O "um ou mais" é o parâmetro-chave da física do reator. Para aumentar ou diminuir a potência, a quantidade de reações deve ser alterada (usando as barras de controle) para que o número de nêutrons presentes (e, portanto, a taxa de geração de energia) seja reduzido ou aumentado.
+
+I M A G E M C H A I N
+
+Uma reação em cadeia nuclear ocorre quando uma única reação nuclear causa uma média de uma ou mais reações nucleares subseqüentes.
+
+Principais características da fissão nuclear
+
+
+   - A fissão nuclear é o principal processo que gera energia nuclear.
+   - A maior parte da energia (~ 85%) é liberada sob a forma de energia cinética das partes separadas.
+   -Neutrons desencadeiam a fissão nuclear.
+   - O processo de fissão produz nêutrons livres (2 ou 3).
+   - A reação em cadeia significa se a reação induz uma ou mais reações.
+   - A probabilidade de que a fissão ocorra depende da energia neutronica incidente.
+    - Portanto, o moderador é usado para diminuir os nêutrons (para aumentar a probabilidade de fissão)
+   -Para os reatores que usam água leve como moderador, é necessário um combustível de urânio enriquecido.
+   -Control varas contém material que absorve neutrões (boro, cádmio, ...)
+   - A retirada das varas aumenta o parâmetro um ou mais (fator de multiplicação), aumentando assim a potência.
+    -Interação das varas diminui o parâmetro um ou mais (fator de multiplicação), diminuindo assim a potência.
+   - O fator de multiplicação também é influenciado por outros parâmetros, como temperatura, queima de combustível e intoxicação por reator.
+   - A fissão ocorre no núcleo do reator nuclear.
+   - O núcleo do reator consiste em combustível nuclear, barras de controle, moderador (refrigerante) e refletor de neutrões.
+
+Princípios da fissão nuclear
+
+Em geral, a reação de fissão induzida por neutrões é a reação, na qual o neutron incidente entra no núcleo alvo pesado (núcleo fissionable), formando um núcleo composto que está excitado para um nível de energia tão alto (Eexcitação> Ecritico) que o núcleo se divide em dois grandes fragmentos de fissão. Uma grande quantidade de energia é liberada sob a forma de energia cinética de radiação e fragmento. Além disso e o que é crucial, o processo de fissão pode produzir 2, 3 ou mais nêutrons livres e esses nêutrons podem desencadear fissão adicional e pode ocorrer uma reação em cadeia. Para entender o processo de fissão, devemos entender os processos que ocorrem dentro do núcleo para serem fisionados. Em primeiro lugar, a energia de ligação nuclear deve ser definida.
+
+Liberação de energia da fissão
+
+Em geral, a fissão nuclear resulta na liberação de enormes quantidades de energia. A quantidade de energia depende fortemente do núcleo a ser fissionado e também depende fortemente da energia cinética de um neutron incidente. Para calcular a potência de um reator, é necessário identificar com precisão os componentes individuais dessa energia. Em primeiro lugar, é importante distinguir entre a energia total liberada e a energia que pode ser recuperada em um reator.
+
+A energia total liberada na fissão pode ser calculada a partir de energias de ligação do núcleo alvo inicial para serem fissionadas e energias de ligação de produtos de fissão. Mas nem toda a energia total pode ser recuperada em um reator. Por exemplo, cerca de 10 MeV é lançado sob a forma de neutrinos (de fato, antineutrinos). Uma vez que os neutrinos interagem fracamente (com uma seção transversal extremamente baixa de qualquer interação), eles não contribuem para a energia que pode ser recuperada em um reator.
+
+Para entender esta questão, primeiro devemos investigar uma reação de fissão típica, como a que está listada abaixo.
+
+I M A G E M E N E R G Y R E L E A S E F R O M F I S S I O N
+
+Usando esta imagem, é possível identificar e descrever quase todos os componentes individuais da energia energética total liberada durante a reação de fissão.
